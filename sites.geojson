@@ -82,6 +82,30 @@
         "host": "Belinda Weaver",
         "register": "<a href='https://ti.to/mozilla-science/gs2016-brisbane'>https://ti.to/mozilla-science/gs2016-brisbane</a>"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.42194029999996, 17.4282139]
+      },
+      "properties": {
+        "address": "Collab House, A-32, Film Nagar, Road No.5, Jubilee Hills, Hyderabad - 500033",
+        "host": "Galaxy Kadiyala",
+        "register": "<a href='https://ti.to/mozilla-science/gs2016-hyderabad'>https://ti.to/mozilla-science/gs2016-hyderabad</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.9951779000000442, 5.406717899999999]
+      },
+      "properties": {
+        "address": "DUNU HUB, IT INCEPT - COCODY ANGRE CITE STAR 8",
+        "host": "Soma Ismael BOLA",
+        "register": "<a href='https://ti.to/mozilla-science/gs2016-abidjan'>https://ti.to/mozilla-science/gs2016-abidjan</a>"
+      }
     }
   ]
 }
