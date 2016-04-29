@@ -1,0 +1,87 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [43.6472772, -79.3943848]
+      },
+      "properties": {
+        "address": "366 Adelaide St W, Suite 500",
+        "host": "Abby Cabunoc Mayes",
+        "register": "<a href='https://ti.to/mozilla-science/gs2016-toronto'>https://ti.to/mozilla-science/gs2016-toronto</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.7028816, -73.99043340000003]
+      },
+      "properties": {
+        "address": "45 Main Street, Suite 1004, Brooklyn NY",
+        "host": "Kaitlin / Aurelia",
+        "register": "<a href='https://ti.to/mozilla-science/gs2016-newyork'>https://ti.to/mozilla-science/gs2016-newyork</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.8584082, -87.6603308]
+      },
+      "properties": {
+        "address": "Blue 1647 Tech Innovation Center, 1647 S Blue Island Ave",
+        "host": "David Bild",
+        "register": "<a href='https://ti.to/mozilla-science/gs2016-chicago'>https://ti.to/mozilla-science/gs2016-chicago</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.2824658, -123.1091908]
+      },
+      "properties": {
+        "address": "163 W Hastings St, Suite 209",
+        "register": "<a href='https://ti.to/mozilla-science/gs2016-vancouver'>https://ti.to/mozilla-science/gs2016-vancouver</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.2824658, -123.1091908]
+      },
+      "properties": {
+        "address": "163 W Hastings St, Suite 209",
+        "register": "<a href='https://ti.to/mozilla-science/gs2016-vancouver'>https://ti.to/mozilla-science/gs2016-vancouver</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.5073509, -0.1277583]
+      },
+      "properties": {
+        "address": "Digital Science, Kings Cross",
+        "host": "Digital Science",
+        "register": "<a href='https://ti.to/mozilla-science/gs2016-london-uk'>https://ti.to/mozilla-science/gs2016-london-uk</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-27.4686066, 153.03952600000002]
+      },
+      "properties": {
+        "address": "Axon Building (#47) The University of Queensland",
+        "host": "Belinda Weaver",
+        "register": "<a href='https://ti.to/mozilla-science/gs2016-brisbane'>https://ti.to/mozilla-science/gs2016-brisbane</a>"
+      }
+    },
+  ]
+}
