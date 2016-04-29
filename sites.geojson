@@ -10,7 +10,7 @@
       "properties": {
         "address": "366 Adelaide St W, Suite 500",
         "host": "Abby Cabunoc Mayes",
-        "register": "<a href='https://ti.to/mozilla-science/gs2016-toronto'>https://ti.to/mozilla-science/gs2016-toronto</a>"
+        "register": "<a href='https://ti.to/mozilla-science/gs2016-toronto'>Register for the Toronto site here!</a>"
       }
     },
     {
@@ -22,7 +22,7 @@
       "properties": {
         "address": "45 Main Street, Suite 1004, Brooklyn NY",
         "host": "Kaitlin / Aurelia",
-        "register": "<a href='https://ti.to/mozilla-science/gs2016-newyork'>https://ti.to/mozilla-science/gs2016-newyork</a>"
+        "register": "<a href='https://ti.to/mozilla-science/gs2016-newyork'>Register for the New York site here!</a>"
       }
     },
     {
@@ -34,7 +34,7 @@
       "properties": {
         "address": "Blue 1647 Tech Innovation Center, 1647 S Blue Island Ave",
         "host": "David Bild",
-        "register": "<a href='https://ti.to/mozilla-science/gs2016-chicago'>https://ti.to/mozilla-science/gs2016-chicago</a>"
+        "register": "<a href='https://ti.to/mozilla-science/gs2016-chicago'>Register for the Chicago site here!</a>"
       }
     },
     {
@@ -45,18 +45,7 @@
       },
       "properties": {
         "address": "163 W Hastings St, Suite 209",
-        "register": "<a href='https://ti.to/mozilla-science/gs2016-vancouver'>https://ti.to/mozilla-science/gs2016-vancouver</a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-123.1091908, 49.2824658]
-      },
-      "properties": {
-        "address": "163 W Hastings St, Suite 209",
-        "register": "<a href='https://ti.to/mozilla-science/gs2016-vancouver'>https://ti.to/mozilla-science/gs2016-vancouver</a>"
+        "register": "<a href='https://ti.to/mozilla-science/gs2016-vancouver'>Register for the Vancouver site here!</a>"
       }
     },
     {
@@ -68,7 +57,7 @@
       "properties": {
         "address": "Digital Science, Kings Cross",
         "host": "Digital Science",
-        "register": "<a href='https://ti.to/mozilla-science/gs2016-london-uk'>https://ti.to/mozilla-science/gs2016-london-uk</a>"
+        "register": "<a href='https://ti.to/mozilla-science/gs2016-london-uk'>Register for the London site here!</a>"
       }
     },
     {
@@ -80,7 +69,7 @@
       "properties": {
         "address": "Axon Building (#47) The University of Queensland",
         "host": "Belinda Weaver",
-        "register": "<a href='https://ti.to/mozilla-science/gs2016-brisbane'>https://ti.to/mozilla-science/gs2016-brisbane</a>"
+        "register": "<a href='https://ti.to/mozilla-science/gs2016-brisbane'>Register for the Brisbane site here!</a>"
       }
     },
     {
@@ -92,7 +81,7 @@
       "properties": {
         "address": "Collab House, A-32, Film Nagar, Road No.5, Jubilee Hills, Hyderabad - 500033",
         "host": "Galaxy Kadiyala",
-        "register": "<a href='https://ti.to/mozilla-science/gs2016-hyderabad'>https://ti.to/mozilla-science/gs2016-hyderabad</a>"
+        "register": "<a href='https://ti.to/mozilla-science/gs2016-hyderabad'>Register for the Hyderbad site here!</a>"
       }
     },
     {
@@ -104,7 +93,7 @@
       "properties": {
         "address": "DUNU HUB, IT INCEPT - COCODY ANGRE CITE STAR 8",
         "host": "Soma Ismael BOLA",
-        "register": "<a href='https://ti.to/mozilla-science/gs2016-abidjan'>https://ti.to/mozilla-science/gs2016-abidjan</a>"
+        "register": "<a href='https://ti.to/mozilla-science/gs2016-abidjan'>Register for the Cote D'Ivoire site here!</a>"
       }
     }
   ]
