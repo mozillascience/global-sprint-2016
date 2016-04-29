@@ -5,7 +5,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [43.6472772, -79.3943848]
+        "coordinates": [ -79.3943848, 43.6472772]
       },
       "properties": {
         "address": "366 Adelaide St W, Suite 500",
@@ -17,7 +17,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [40.7028816, -73.99043340000003]
+        "coordinates": [-73.99043340000003,40.7028816]
       },
       "properties": {
         "address": "45 Main Street, Suite 1004, Brooklyn NY",
@@ -29,7 +29,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [41.8584082, -87.6603308]
+        "coordinates": [-87.6603308, 41.8584082]
       },
       "properties": {
         "address": "Blue 1647 Tech Innovation Center, 1647 S Blue Island Ave",
@@ -41,7 +41,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [49.2824658, -123.1091908]
+        "coordinates": [-123.1091908, 49.2824658]
       },
       "properties": {
         "address": "163 W Hastings St, Suite 209",
@@ -52,7 +52,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [49.2824658, -123.1091908]
+        "coordinates": [-123.1091908, 49.2824658]
       },
       "properties": {
         "address": "163 W Hastings St, Suite 209",
@@ -63,7 +63,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [51.5073509, -0.1277583]
+        "coordinates": [-0.1277583, 51.5073509]
       },
       "properties": {
         "address": "Digital Science, Kings Cross",
@@ -75,13 +75,13 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-27.4686066, 153.03952600000002]
+        "coordinates": [153.03952600000002, -27.4686066]
       },
       "properties": {
         "address": "Axon Building (#47) The University of Queensland",
         "host": "Belinda Weaver",
         "register": "<a href='https://ti.to/mozilla-science/gs2016-brisbane'>https://ti.to/mozilla-science/gs2016-brisbane</a>"
       }
-    },
+    }
   ]
 }
