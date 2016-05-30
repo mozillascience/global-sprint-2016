@@ -4,7 +4,7 @@ Join us as we learn to collaboratively build projects transforming science on th
 
 This two-day sprint event brings together researchers, coders, librarians and the public from around the globe to hack on open science and open data projects in their communities. 
 
-## Project Guide
+## Projects Guide
 
 Want to jump in during our annual [#mozsprint](http://mozillascience.org/global-sprint-2016)? Here's a breakdown on some of the tasks going on! You can also look at our [full list of projects](https://github.com/mozillascience/global-sprint-2016/issues?q=is%3Aissue+is%3Aopen+label%3AProject). Project leads should be online and answering questions from 9-5 in the time zone listed for their project.
 
