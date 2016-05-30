@@ -20,28 +20,28 @@ Browse all **issues by level**:
 * [INTERMEDIATE](https://github.com/mozillascience/global-sprint-2016/issues?q=is%3Aissue+is%3Aopen+label%3A%22%5Blevel%5D+Intermediate%22): Some experience helpful for jumping in.
 * [ADVANCED](https://github.com/mozillascience/global-sprint-2016/issues?q=is%3Aissue+is%3Aopen+label%3A%22%5Blevel%5D+Advanced%22): Relevant experience needed to get involved.
 
-## Design
+### Design
 
 Calling all designers! Science needs UI/UX, too
 
 * [BEC Explorer #47](https://github.com/mozillascience/global-sprint-2016/issues/47): Join [@joeyklee](https://github.com/joeyklee) as he designs and builds an interactive data viewer for the Biogeoclimate Ecosystem Classification (BEC) zones in North America  [**Intermediate**] [**Open Data**] [**Tools**]
 * [ openSNP #10 ](https://github.com/mozillascience/global-sprint-2016/issues/10): Help [@gedankenstuecke](https://github.com/gedankenstuecke) refine the experience using [opensnp.org](http://opensnp.org/)  [**Intermediate**] [**Open Data**] [**Tools**] [**Citizen Science**]
 
-## Writing Lessons and Docs
+### Writing Lessons and Docs
 
 Ready to pen some words for science? Here's how you can help!
 
 * [ Open Data Training #14 ](https://github.com/mozillascience/global-sprint-2016/issues/14): [@stephwright](https://github.com/stephwright) is developing curriculum for training. Join in! [**Intermediate**] [**Curriculum**]
 * [ Open Science 101 #36](https://github.com/mozillascience/global-sprint-2016/issues/36): Join  [@aleimba](https://github.com/aleimba) and [@matthiasfromm](https://github.com/matthiasfromm) as they collect teaching resources/material for open science [**Beginner**] [**Curriculum**]
 
-## User Research / User Testing
+### User Research / User Testing
 
 Help out some projects by providing feedback or trying their workflow:
 
 * [STEMM Role Models #8](https://github.com/mozillascience/global-sprint-2016/issues/8): Let [@KirstieJane](https://github.com/KirstieJane) know [your thoughts on the STEMM Role Models](https://github.com/KirstieJane/STEMMRoleModels/issues/17) app. Inspire future generations by providing the most exciting and diverse speakers for your conference. [**Beginner**] [**Tools**]
 * [PaperHive #43](https://github.com/mozillascience/global-sprint-2016/issues/43): PaperHive is the coworking hub for researchers. Our goal is to simplify research communication and transform reading into an active process of productive collaboration. We just launched our beta, so our next step is to encourage the creation of virtual reading clubs and reach out to already existing ones. [@lmatthia](https://github.com/lmatthia). [**Intermediate**] [**Citizen Science**]
 
-## Writing Code
+### Writing Code
 
 Itching to write some code? You've come to the right place
 
