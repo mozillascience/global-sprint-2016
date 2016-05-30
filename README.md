@@ -20,11 +20,6 @@ Browse all **issues by level**:
 * [INTERMEDIATE](https://github.com/mozillascience/global-sprint-2016/issues?q=is%3Aissue+is%3Aopen+label%3A%22%5Blevel%5D+Intermediate%22): Some experience helpful for jumping in.
 * [ADVANCED](https://github.com/mozillascience/global-sprint-2016/issues?q=is%3Aissue+is%3Aopen+label%3A%22%5Blevel%5D+Advanced%22): Relevant experience needed to get involved.
 
-## User Research / User Testing
-
-Help out some projects by taking a survey or trying their workflow:
-
-
 ## Design
 
 Calling all designers! Science needs UI/UX, too
