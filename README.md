@@ -75,3 +75,6 @@ Itching to write some code? You've come to the right place
 **Jupyter Notebook**
 * [Binder #21](https://github.com/mozillascience/global-sprint-2016/issues/21): System for deploying Jupyter notebooks from GitHub repos via Kubernetes. [@andrewosh](https://github.com/andrewosh). [**[Intermediate](https://github.com/mozillascience/global-sprint-2016/issues?q=is%3Aissue+is%3Aopen+label%3A%22%5Blevel%5D+Intermediate%22)**] [**[Tools](https://github.com/mozillascience/global-sprint-2016/issues?q=is%3Aissue+is%3Aopen+label%3A%22%5BTrack%5D+Tools%22)**]
 * [everware #11](https://github.com/mozillascience/global-sprint-2016/issues/11): Everware allows users to launch Jupyter Notebooks into a docker container by specifying the url of a git repository. Get your project everware-ready during the sprint! [@betatim](https://github.com/betatim). [**[Intermediate](https://github.com/mozillascience/global-sprint-2016/issues?q=is%3Aissue+is%3Aopen+label%3A%22%5Blevel%5D+Intermediate%22)**] [**[Tools](https://github.com/mozillascience/global-sprint-2016/issues?q=is%3Aissue+is%3Aopen+label%3A%22%5BTrack%5D+Tools%22)**]
+
+**Scala**
+* [DynaML #26](https://github.com/mozillascience/global-sprint-2016/issues/26): Scala Library/REPL for Machine Learning Research. [@mandar2812](https://github.com/mandar2812)
