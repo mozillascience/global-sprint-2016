@@ -4,6 +4,17 @@ Join us as we learn to collaboratively build projects transforming science on th
 
 This two-day sprint event brings together researchers, coders, librarians and the public from around the globe to hack on open science and open data projects in their communities. This repo is the [official list of participating projects](https://github.com/mozillascience/global-sprint-2016/issues) at [#mozsprint](http://mozillascience.org/global-sprint-2016). Chat: [http://gitter.im/mozillascience/community](http://gitter.im/mozillascience/community).
 
+## \#mozsprint Activity
+
+How did we do?
+
+[![](https://docs.google.com/spreadsheets/d/16pcl7KltOZREC2z4JlhzzzA65kBpASZXLeqlzB_0BJY/pubchart?oid=1097002315&format=image)](https://docs.google.com/spreadsheets/d/16pcl7KltOZREC2z4JlhzzzA65kBpASZXLeqlzB_0BJY/pubchart?oid=1097002315&format=interactive)
+
+[![](https://docs.google.com/spreadsheets/d/153InqGPSHPuJqj1UsaMo6IzzAI9ejmh-Y55D-92L2_k/pubchart?oid=394093717&format=image)](https://docs.google.com/spreadsheets/d/153InqGPSHPuJqj1UsaMo6IzzAI9ejmh-Y55D-92L2_k/pubchart?oid=394093717&format=interactive)
+
+[![](https://docs.google.com/spreadsheets/d/153InqGPSHPuJqj1UsaMo6IzzAI9ejmh-Y55D-92L2_k/pubchart?oid=258950373&format=image)](https://docs.google.com/spreadsheets/d/153InqGPSHPuJqj1UsaMo6IzzAI9ejmh-Y55D-92L2_k/pubchart?oid=258950373&format=interactive)
+
+
 ## Projects Guide
 
 Want to jump in during our annual [#mozsprint](http://mozillascience.org/global-sprint-2016)? Here's a breakdown on some of the tasks going on! You can also look at our [full list of projects](https://github.com/mozillascience/global-sprint-2016/issues?q=is%3Aissue+is%3Aopen+label%3AProject). Project leads should be online and answering questions from 9-5 in the time zone listed for their project.
